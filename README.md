@@ -9,7 +9,7 @@ I am Tran Le, a Ph.D. candidate from the Department of Data Science at UMMC. I'm
 
 
 - 🔭 I’m interested in working on Machine Learning and Data Science
-- 🥅 2023 Goals: Get my PhD done 😄
+- 🥅 2023 Goals: Get my PhD dissertation done 😄
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
