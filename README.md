@@ -14,7 +14,6 @@ I am Tran Le, a Ph.D. candidate from the Department of Data Science at UMMC. I'm
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tran-le-767470229/"> [LinkedIn](https://www.linkedin.com/in/tran-le-767470229/)
 <!-- -  Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
